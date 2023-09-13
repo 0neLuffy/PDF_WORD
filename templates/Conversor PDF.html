@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Conversor de Archivos</title>
+  </head>
+  <body>
+    <h1>Conversor de Archivos</h1>
+    <form action="" method="post" enctype="multipart/form-data">
+      <label for="opcion">Selecciona una opción:</label>
+      <select id="opcion" name="opcion">
+        <option value="pdf_to_docx">Convertir PDF a Word</option>
+        <option value="docx_to_pdf">Convertir Word a PDF</option>
+      </select>
+      <br /><br />
+      <label for="archivo">Selecciona un archivo:</label>
+      <input type="file" id="archivo" name="archivo" accept=".pdf, .docx" />
+      <br /><br />
+      <input type="submit" value="Convertir" />
+    </form>
+  </body>
+</html>

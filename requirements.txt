@@ -1,4 +1,4 @@
-Flask==2.1.0
-PyPDF2==1.26.0
-python-docx==0.8.11
-pdf2docx==0.5
+Flask
+PyPDF2
+python-docx
+pdf2docx

@@ -27,7 +27,7 @@ Para comenzar a usar el Conversor PDF WORD en tu máquina local, sigue estos pas
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/0neLuffy/PDF_WORD.git
+git clone https://github.com/PythonDataAce/PDF_WORD.git
 cd PDF_WORD
 ```
 
